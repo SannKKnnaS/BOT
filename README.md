@@ -1,1 +1,1 @@
-Bu bot kendisine atılan fotoğrafların ne olduğunu değerlendirir.
+Bu bot kendisine atılan fotoğrafların ne olduğunu bilir.
